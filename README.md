@@ -23,6 +23,9 @@ By doing this, it shows how software can manage data, handle user actions, and
 update information correctly.
 
 Members: 
+
 Abud, John Carlos
+
 Rose, Angelo Emman
+
 Samporna, Mohammad Ashrawi
